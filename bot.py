@@ -47,6 +47,9 @@ from pyrogram.raw.all import layer
 from config import Config
 from plugins.web_support import web_server
 from plugins.file_rename import app
+from pyrogram import utils as pyroutils
+pyroutils.MIN_CHAT_ID = -999999999999
+pyroutils.MIN_CHANNEL_ID = -100999999999999
 
 
 pyrogram.utils.MIN_CHANNEL_ID = -1009999999999
