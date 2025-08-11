@@ -76,7 +76,7 @@ class rkn(object):
 𝚈ᴏᴜ 𝙲ᴀɴ 𝙰ʟsᴏ 𝙲ᴏɴᴠᴇʀᴛ 𝚅ɪᴅᴇᴏ 𝚃ᴏ 𝙵ɪʟᴇ & 𝙵ɪʟᴇ 𝚃ᴏ 𝚅ɪᴅᴇᴏ
 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙰𝙻𝚂𝙾 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝚂 𝙲𝚄𝚂𝚃𝙾𝙼 𝚃𝙷𝚄𝙼𝙱𝙽𝙰𝙸𝙻 𝙰𝙽𝙳 𝙲𝚄𝚂𝚃𝙾𝙼 𝙲𝙰𝙿𝚃𝙸𝙾𝙽
 
-Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @Digital_Botz 💞</b>"""
+Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : ST_Rename_Update 💞</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
@@ -169,13 +169,13 @@ V𝟹.𝟶.𝟶 [STABLE]
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-`--change-title @Rkn_Botz
---change-video-title @Rkn_Botz
---change-audio-title @Rkn_Botz
---change-subtitle-title @Rkn_Botz
---change-author @Rkn_Botz`
+`--change-title @ST_Rename_Update
+--change-video-title @ST_Rename_Update
+--change-audio-title @ST_Rename_Update
+--change-subtitle-title @ST_Rename_Update
+--change-author @ST_Rename_Update
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Digital_Botz
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Sitaratoons_Support_bot
 """
     
     CUSTOM_FILE_NAME = """
@@ -199,11 +199,10 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @Digital_Botz`
     # ᴡʜᴏᴇᴠᴇʀ ɪs ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜɪs ʀᴇᴘᴏ ɪs ᴡᴀʀɴᴇᴅ ⚠️ ᴅᴏ ɴᴏᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛs ɢɪᴠᴇɴ ɪɴ ᴛʜɪs ʀᴇᴘᴏ #ғɪʀsᴛ ᴀɴᴅ ʟᴀsᴛ ᴡᴀʀɴɪɴɢ ⚠️
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
     
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/DigitalBotz/Digital-Rename-Bot>Digital-Rename-Bot</a>
+» Update: <a href=https://t.me/ST_Rename_Update>File-Rename-Bot</a>
 
-• ❣️ <a href=https://github.com/RknDeveloper>RknDeveloper</a>
-• ❣️ <a href=https://github.com/DigitalBotz>DigitalBotz</a>
-• ❣️ <a href=https://github.com/JayMahakal98>Jay Mahakal</a> """
+• ❣️ <a href=https://t.me/Sitaratoons_Support_bot>Developer</a>
+• ❣️ <a href=https://t.me/ST_Rename_Update>Update</a>"""
     # ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
     SEND_METADATA = """
@@ -211,13 +210,13 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @Digital_Botz`
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-`--change-title @Rkn_Botz
---change-video-title @Rkn_Botz
---change-audio-title @Rkn_Botz
---change-subtitle-title @Rkn_Botz
---change-author @Rkn_Botz`
+`--change-title @ST_Rename_Update
+--change-video-title @ST_Rename_Update
+--change-audio-title @ST_Rename_Update
+--change-subtitle-title @ST_Rename_Update
+--change-author @ST_Rename_Update`
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Digital_Botz
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Sitaratoons_Support_bot
 """
     
     RKN_PROGRESS = """<b>\n
